@@ -204,8 +204,10 @@ Download the [MongoDB Compass](https://www.mongodb.com/products/tools/compass) a
 From MondgoDB Compass, you have a range of options to query and analyze your data. By connecting to this data store, I did not have to alter the consumer file to specify data to be stored. Instead, I now have all data being produced and I can query as I wish. For the purpose of this project, I wanted to be curious about what keywords were found within each category, which could also lend some consideration to the average sentiment of each category. 
 
 Using the Schema tab, I was able to review different key words within each category, as seen below. 
+
 ![alt text](image.png)
 ![alt text](image-1.png)
+
 ---
 
 ### Final Project Commit 
